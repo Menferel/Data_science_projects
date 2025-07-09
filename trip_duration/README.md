@@ -1,7 +1,7 @@
 Análisis de datos de viajes en taxi en Chicago para identificar patrones en la demanda, estudiar el impacto del clima y generar insights para estrategias de negocio en Zuber, una empresa emergente de ridesharing.
 
 - Datos: información de viajes, empresas de taxi, clima y barrios de Chicago.
-- Herramientas: Python, pandas, matplotlib, seaborn, estadísticas, visualización de datos.
+- Librerías: Python, pandas, matplotlib, seaborn, estadísticas, visualización de datos.
 - Resultados:
         Ranking de compañías por volumen de viajes.
         Identificación de barrios más frecuentados para descenso de pasajeros.
