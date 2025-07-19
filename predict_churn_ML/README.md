@@ -4,4 +4,4 @@ Interconnect busca anticipar la cancelación de clientes para ofrecer promocione
 - Librerías: Pandas, Seaborn, Matplotlib, Numpy, scipy, sklearn(modelos, métricas y otros), lightgbm.
 - Resultado: Modelo capaz de identificar clientes en riesgo de cancelar, ayudando a diseñar campañas preventivas y retención personalizada. 
 
-Link: https://github.com/Menferel/Data_science_projects/tree/main/predict_churn_ML
+Link: https://github.com/Menferel/Data_science_projects/blob/main/predict_churn_ML/predict_churn_ML.ipynb
