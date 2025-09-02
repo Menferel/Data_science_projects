@@ -1,5 +1,5 @@
-Análisis de datos de Megaline para determinar qué plan de prepago —Surf o Ultimate— genera mayores ingresos, orientado a decisiones estratégicas de marketing y presupuesto. 
+Data analysis of Megaline to determine which prepaid plan — Surf or Ultimate — generates the most revenue, informing strategic marketing and budget decisions.
 
-- Datos: información de las interacciones de los clientes (llamadas, SMS, internet), distribuidos en 5 tablas.
-- Librerías: Pandas, matplotlib, NumPy, SciPy. 
-- Resultado: Descripción del comportamiento de la clientela. Pruebas de hipótesis comparando a los usuarios de ambos planes, así como por región. 
+- Data: Customer interaction information (calls, text messages, internet usage), distributed across five tables.
+- Libraries: Pandas, matplotlib, NumPy, SciPy.
+- Output: Description of customer behavior. Hypothesis testing comparing users of both plans, as well as by region.
