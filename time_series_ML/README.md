@@ -1,7 +1,7 @@
-La compañía Sweet Lift Taxi ha recopilado datos históricos sobre pedidos de taxis en los aeropuertos. Para atraer a más conductores durante las horas pico, necesitamos predecir la cantidad de pedidos de taxis para la próxima hora. Para esto, es necesario la creación de un modelo. 
+Sweet Lift Taxi has collected historical data on taxi requests at airports. To attract more drivers during peak hours, we need to predict the number of taxi requests for the next hour. This requires creating a model.
 
-- Datos: Registros históricos de pedidos de taxi muestreados en intervalos de una hora.
-- Librerías: Pandas, numpy, matplotlib, time, statsmodel, lightgbm, sklearn (métricas, modelos y otros). 
-- Resultado: Modelo predictivo capaz de estimar la demanda horaria, permitiendo gestionar recursos y maximizar la eficiencia operativa en horas pico.
+- Data: Historical records of taxi requests sampled at hourly intervals.
+- Libraries: Pandas, numpy, matplotlib, time, statsmodel, lightgbm, sklearn (metrics, models, and others).
+- Output: Predictive model capable of estimating hourly demand, allowing for resource management and maximizing operational efficiency during peak hours.
 
 Link: https://github.com/Menferel/Data_science_projects/blob/main/time_series_ML/time_series_ML.ipynb
