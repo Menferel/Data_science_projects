@@ -1,2 +1,2 @@
 # Data_science_projects
-Aquí puedes encontrar todos mis proyectos de ciencia de datos
+Here you can find all my data science projects
