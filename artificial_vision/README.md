@@ -1,5 +1,5 @@
-Good Seed, una cadena de supermercados, busca cumplir con las leyes de venta de alcohol asegurándose de no vender a menores de edad. Se creó un modelo para estimar la edad de personas a partir de fotografías capturadas en caja.
+Good Seed, a supermarket chain, seeks to comply with alcohol sales laws by ensuring it does not sell to minors. A model was created to estimate people's ages from photographs captured at the checkout.
 
-- Datos: fotos de rostros etiquetadas con edad real.
-- Librerías: Pandas, Numpy, Matplotlib, TensorFlow, Keras.
-- Resultado: modelo funcional para estimar edad y reducir riesgo de venta a menores.
+- Data: Face photos labeled with actual age.
+- Libraries: Pandas, Numpy, Matplotlib, TensorFlow, Keras.
+- Output: Functional model to estimate age and reduce the risk of sales to minors.
