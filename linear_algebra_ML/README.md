@@ -1,5 +1,5 @@
-Desarrollo de algoritmo de transformación de datos que dificulte la recuperación de la información personal si los datos caen en manos equivocadas. Esto se denomina enmascaramiento de datos u ofuscación de datos. Pero los datos deben protegerse de tal manera que la calidad de los modelos de machine learning no se vea afectada. No es necesario elegir el mejor modelo, basta con demostrar que el algoritmo funciona correctamente.
+Development of a data transformation algorithm that makes it difficult to recover personal information if it falls into the wrong hands. This is called data masking or data obfuscation. However, data must be protected in such a way that the quality of the machine learning models is not compromised. It is not necessary to choose the best model; it is enough to demonstrate that the algorithm works correctly.
 
-- Datos: características demográficas y socioeconómicas de asegurados, incluyendo sexo, edad, salario, número de familiares, y número de beneficios recibidos en los últimos cinco años.
-- Librerías: Pandas, numpy, seaborn, math, sklearn, IPython. 
-- Resultado: implementación de modelos predictivos de beneficios, y desarrollo de métodos de ofuscación de datos que preservan la precisión de los modelos mientras protegen la información sensible de los asegurados.
+- Data: demographic and socioeconomic characteristics of policyholders, including sex, age, salary, number of family members, and number of benefits received in the last five years.
+- Libraries: Pandas, numpy, seaborn, math, sklearn, IPython.
+- Outcome: Implementation of predictive benefit models and development of data obfuscation methods that preserve the accuracy of the models while protecting sensitive policyholder information.
