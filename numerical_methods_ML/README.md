@@ -1,7 +1,7 @@
-Desarrollo de modelos de machine learning para predecir el valor de mercado de vehículos usados para la plataforma Rusty Bargain, que busca agilizar la tasación de autos en su app y atraer nuevos clientes. 
+Development of machine learning models to predict the market value of used vehicles for the Rusty Bargain platform, which seeks to streamline car appraisals in its app and attract new customers.
 
-- Datos: historial de ventas, especificaciones técnicas, modelos, precios de autos usado, etc.
-- Librerías: Pandas, matplotlib, numpy, seabonr, math, time, sklearn, lightgbm, catboost. 
-- Resultado: comparación de múltiples algoritmos de regresión (regresión lineal como prueba de cordura, árboles de decisión, Random Forest y potenciación del gradiente), logrando un balance entre precisión, velocidad de predicción y tiempo de entrenamiento, para optimizar la tasación automática de autos en la app de Rusty Bargain.
+Data: sales history, technical specifications, models, used car prices, etc.
+Libraries: Pandas, matplotlib, numpy, seabonr, math, time, sklearn, lightgbm, catboost.
+Outcome: Comparison of multiple regression algorithms (linear regression as a sanity test, decision trees, Random Forest, and gradient boosting), achieving a balance between accuracy, prediction speed, and training time, to optimize automatic car appraisals in the Rusty Bargain app.
 
 Link: https://github.com/Menferel/Data_science_projects/blob/main/numerical_methods_ML/numerical_methods_ML.ipynb
