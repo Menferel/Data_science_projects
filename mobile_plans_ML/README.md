@@ -1,5 +1,5 @@
-Megaline busca recomendar planes a sus clientes, en lugar de mantenerlos en tarifas heredadas. Se desarrolló un modelo de clasificación para predecir si un usuario debería estar en el plan Smart o Ultra, basándose en su comportamiento mensual.
+Megaline seeks to recommend plans to its customers, rather than keeping them on legacy plans. A classification model was developed to predict whether a user should be on the Smart or Ultra plan based on their monthly usage.
 
-- Datos: Registros con llamadas, minutos, mb usados.
-- Librerías: Pandas, Numpy, Sklearn. 
-- Resultado: Modelo capaz de identificar el plan óptimo para cada cliente y optimizar las estrategias de migración a nuevos planes.
+- Data: Logs with calls, minutes, MB used.
+- Libraries: Pandas, Numpy, Sklearn.
+- Output: Model capable of identifying the optimal plan for each customer and optimizing migration strategies to new plans.
