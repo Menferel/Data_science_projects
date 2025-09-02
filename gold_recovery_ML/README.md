@@ -1,5 +1,5 @@
-La compañía minera busca optimizar su proceso industrial prediciendo la recuperación de oro en distintas etapas de producción. El objetivo es construir modelos predictivos robustos para estimar tanto la recuperación intermedia (rougher) como la recuperación final de oro, utilizando datos de procesos metalúrgicos. La métrica utilizada fue Symmetric Mean Absolute Percentage Error (sMAPE)
+The mining company seeks to optimize its industrial process by predicting gold recovery at different stages of production. The objective is to build robust predictive models to estimate both intermediate (rougher) and final gold recovery, using metallurgical process data. The metric used was Symmetric Mean Absolute Percentage Error (sMAPE).
 
-- Datos: Variables físicas y químicas de proceso recopiladas cada hora, provenientes de tres datasets: train, test y full.
-- Librerías: Pandas, matplotlib, seaborn, numpy, sklearn (métricas y modelos). 
-- Resultados: Selección del mejor modelo con bajo sMAPE para rougher recovery y final recovery.
+- Data: Physical and chemical process variables collected hourly from three datasets: train, test, and full.
+- Libraries: Pandas, matplotlib, seaborn, numpy, sklearn (metrics and models).
+- Results: Selection of the best model with low sMAPE for rougher and final recovery.
