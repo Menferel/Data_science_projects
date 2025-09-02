@@ -1,9 +1,5 @@
-Análisis de datos históricos de ventas de videojuegos para identificar patrones que predicen el éxito comercial y orientar estrategias de marketing.
+Analysis of historical video game sales data to identify patterns that predict commercial success and guide marketing strategies.
 
-- Datos: información de videojuegos, con datos como plataforma, género, ventas por región, reseñas de usuarios y críticos, y clasificaciones ESRB.
-- Librerías: Pandas, numpy, matplotlib, seaborn, SciPy, math, spicy. 
-- Resultados:
-        Identificación de plataformas y géneros más rentables.
-        Análisis de impacto de reseñas y ratings ESRB en las ventas.
-        Perfil de usuario por región (NA, EU, JP).
-        Prueba de hipótesis sobre calificaciones de plataformas y géneros.
+- Data: Video game information, including platform, genre, sales by region, user and critic reviews, and ESRB ratings.
+- Libraries: Pandas, numpy, matplotlib, seaborn, SciPy, math, spicy.
+- Results: Identification of the most profitable platforms and genres. Analysis of the impact of reviews and ESRB ratings on sales. User profile by region (NA, EU, JP). Hypothesis testing on platform and genre ratings.
