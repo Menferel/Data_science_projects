@@ -1,5 +1,5 @@
-Beta Bank está perdiendo clientes cada mes. Como es más barato retener clientes que adquirir nuevos, se creó un modelo para predecir qué clientes podrían abandonar el banco, con el fin de tomar medidas preventivas.
+Beta Bank is losing customers every month. Since it's cheaper to retain customers than to acquire new ones, a model was created to predict which customers might leave the bank in order to take preventive measures.
 
-- Datos: información clientes, incluyendo edad, género, país, historial bancario, productos contratados, y si el cliente abandonó el banco.
-- Librerías: Pandas, Numpy, scikit-learn (modelos, métricas). 
-- Resultado: modelo entrenado y optimizado para detectar clientes en riesgo, logrando un F1-score superior al deseado (0.59) y análisis comparativo con AUC-ROC.
+- Data: Customer information, including age, gender, country, banking history, products purchased, and whether the customer left the bank.
+- Libraries: Pandas, Numpy, scikit-learn (models, metrics).
+- Output: Model trained and optimized to detect at-risk customers, achieving a higher-than-desired F1 score (0.59) and comparative analysis with AUC-ROC.
