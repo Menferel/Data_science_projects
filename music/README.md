@@ -1,5 +1,5 @@
-Comparación y análisis de las preferencias musicales de usuarios en Springfield y Shelbyville. El objetivo es comparar el comportamiento de escucha esas dos ciudades.
+Comparison and analysis of music preferences of users in Springfield and Shelbyville. The objective is to compare listening behavior between these two cities.
 
-- Datos: Registros de reproducciones musicales, incluyendo usuario, canción, artista, género, ciudad, hora y día de la semana.
-- Librerías: Pandas.
-- Resultado: insights sobre diferencias en hábitos de escucha entre las dos ciudades y variaciones según el día, generando recomendaciones estratégicas basadas en comportamiento de usuarios.
+- Data: Music stream logs, including user, song, artist, genre, city, time, and day of the week.
+- Libraries: Pandas.
+- Result: Insights into differences in listening habits between the two cities and variations by day, generating strategic recommendations based on user behavior.
