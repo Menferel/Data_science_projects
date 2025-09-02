@@ -1,8 +1,5 @@
-Análisis de datos de viajes en taxis en Chicago para identificar patrones en la demanda, estudiar el impacto del clima y generar insights para estrategias de negocio en Zuber. 
+Analysis of taxi trip data in Chicago to identify patterns in demand, study the impact of weather, and generate insights for business strategies at Zuber.
 
-- Datos: información de viajes, empresas de taxi, clima y barrios de Chicago.
-- Librerías: Pandas, matplotlib, seaborn, scipy.stats. 
-- Resultados:
-        Ranking de compañías por volumen de viajes.
-        Identificación de barrios más frecuentados para descenso de pasajeros.
-        Prueba de hipótesis sobre si la duración media de los viajes desde el Loop hacia O'Hare varía en sábados lluviosos.
+- Data: Trip information, taxi companies, weather, and Chicago neighborhoods.
+- Libraries: Pandas, matplotlib, seaborn, scipy.stats.
+- Results: Ranking of companies by trip volume. Identification of the most frequented neighborhoods for passenger decline. Hypothesis test on whether the average trip duration from the Loop to O'Hare varies on rainy Saturdays.
